@@ -44,3 +44,50 @@ $ pip install pyTelegramBotAPI
 * Installation from source (requires git):
 
 ```
+
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+
+`ANOTHER_API_KEY`
+IP_EQUIPMENT = 'XXX.XXX.XXX.XX'
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
+
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+## Feedback
+
+If you have any feedback, please reach out to us at robertocarlos.toapanta@gmail.com
+
+## Support
+
+For support, email robertocarlos.toapanta@gmail.com or join our Slack channel.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Autors
+- [@rotoapanta](https://github.com/rotoapanta)
+
+## Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-carlos-toapanta-g/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rotoapanta)
