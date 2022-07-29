@@ -22,8 +22,8 @@ import requests
 from requests.auth import HTTPDigestAuth
 import datetime
 
-# IP_EQUIPMENT = '192.168.217.22'
-IP_EQUIPMENT = '192.168.217.29'
+# IP_EQUIPMENT = '192.168.XXX.XX'
+IP_EQUIPMENT = '192.168.XXX.XX'
 # hola
 
 todays_Date = datetime.datetime.now()  # Getting today's date and time
