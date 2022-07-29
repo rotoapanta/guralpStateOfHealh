@@ -66,13 +66,14 @@ function App() {
   return <Component />
 }
 ```
+
 ## Feedback
 
 If you have any feedback, please reach out to us at robertocarlos.toapanta@gmail.com
 
 ## Support
 
-For support, email robertocarlos.toapanta@gmail.com or join our Slack channel.
+For support, email robertocarlos.toapanta@gmail.com or join our Discord channel.
 
 ## License
 
