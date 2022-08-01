@@ -1,6 +1,6 @@
 # <p align="center">Guralp State of Healh
 
-<p align="center">This is an implementation of a readme as a template and the creation and identification of badges  <a href="https://core.telegram.org/bots/api">Telegram Bot API</a>.</p>
+<p align="center">This project extracts the health status of the guralp digitizers and sends to the Zabbix server.</p>
 
 ##
 
