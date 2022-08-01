@@ -6,6 +6,7 @@
 
 ![Python Version](https://img.shields.io/pypi/pyversions/3)
 [![GitHub issues](https://img.shields.io/github/issues/rotoapanta/guralpStateOfHealh)](https://github.com/rotoapanta/guralpStateOfHealh/issues)
+![GitHub issues](https://img.shields.io/github/issues/rotoapanta/guralpStateOfHealh?style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rotoapanta/guralpStateOfHealh)
 ![GitHub last commit](https://img.shields.io/github/last-commit/rotoapanta/guralpStateOfHealh)
 ![GitHub forks](https://img.shields.io/github/forks/rotoapanta/guralpStateOfHealh?style=plastic)
