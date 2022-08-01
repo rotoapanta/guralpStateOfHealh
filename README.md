@@ -1,9 +1,8 @@
 # <p align="center">Guralp State of Healh
 
 <p align="center">This is an implementation of a readme as a template and the creation and identification of badges  <a href="https://core.telegram.org/bots/api">Telegram Bot API</a>.</p>
-<p align="center">Both synchronous and asynchronous.</p>
 
-## <p align="center">Supported Bot API version: <a href="https://core.telegram.org/bots/api#june-20-2022">6.1</a>!
+##
 
 ![Python Version](https://img.shields.io/pypi/pyversions/3)
 [![GitHub issues](https://img.shields.io/github/issues/rotoapanta/guralpStateOfHealh)](https://github.com/rotoapanta/guralpStateOfHealh/issues)
