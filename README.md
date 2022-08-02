@@ -33,7 +33,7 @@
 
 This document is the creation of a Readme.rm template for future projects.
 
-![Image text] (https://github.com/rotoapanta/guralpStateOfHealh/blob/c270bf6bbd5cffc5fc3dd4e2e981c16b19e09b58/Captura%20de%20Pantalla%202022-07-31%20a%20la(s)%2022.39.41.png)
+![Image text](https://github.com/rotoapanta/guralpStateOfHealh/blob/c270bf6bbd5cffc5fc3dd4e2e981c16b19e09b58/Captura%20de%20Pantalla%202022-07-31%20a%20la(s)%2022.39.41.png)
 
 There are two ways to install the library:
 
